@@ -1,0 +1,15 @@
+font-family = D2Coding
+font-size = 21
+
+theme = Apple System Colors
+
+keybind = global:control+grave_accent=toggle_quick_terminal
+
+window-height = 32
+window-width = 97
+window-position-x = 342
+window-position-y = 81
+
+initial-window = false
+
+quick-terminal-position = center
